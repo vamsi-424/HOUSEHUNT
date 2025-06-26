@@ -176,7 +176,7 @@ JWT_SECRET=yourSuperStrongAndSecretJWTKeyPleaseChangeThis
 ## 2. Frontend Setup
 Navigate to the frontend directory and install dependencies:
 cd ../frontend  # If you are in the backend directory
-# or cd frontend (if you are in the root house-hunt-mern directory)
+or cd frontend (if you are in the root house-hunt-mern directory)
 npm install
 
 The frontend uses a proxy to communicate with the backend during development. This is already configured in frontend/package.json:
