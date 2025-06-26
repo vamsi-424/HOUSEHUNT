@@ -11,18 +11,11 @@ HouseHunt MERN is a full-stack web application designed to help users find renta
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-  - [1. Clone the Repository](#1-clone-the-repository)
-  - [2. Backend Setup](#2-backend-setup)
-  - [3. Frontend Setup](#3-frontend-setup)
-  - [4. Running the Application](#4-running-the-application)
-- [API Endpoints](#api-endpoints)
-  - [User Routes](#user-routes)
-  - [Listing Routes](#listing-routes)
-- [Environment Variables](#environment-variables)
+  - [1. Backend Setup](#2-backend-setup)
+  - [2. Frontend Setup](#3-frontend-setup)
+  - [3. Running the Application](#4-running-the-application)
 - [Seeding Initial Data](#seeding-initial-data)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
